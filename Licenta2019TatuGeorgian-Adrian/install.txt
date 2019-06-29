@@ -1,0 +1,9 @@
+Requirements : JDK version 11.0.1 and JavaFx SDK version 11.0.2
+
+In order to run the application unzip the archive and change the path to the JavaFx SDK from the start.bat file. 
+You may add an environment variable or an absolute path.
+
+If you are using Linux or Mac you may have to run chmod on it in order to give it execution rights.
+Also don't forget to add #!/bin/bash on the first line.
+
+If you have done all this just run start.bat.
